@@ -4,6 +4,6 @@ A little GO app that checks .js files for comments above functions. If no commen
 
 ## How to use
 
-1. Run the file `go run cfc.go`
+1. Run the file `go run check-for-comments.go`
 2. Choose a directory to to check. Eg. `~/Development/my-project`
 3. ~ Magic ~
